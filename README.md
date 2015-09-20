@@ -1,6 +1,8 @@
 StackEdit
 =========
 
+[![Join the chat at https://gitter.im/redreamality/stackedit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/redreamality/stackedit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 StackEdit is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
 
 Main showcase: https://stackedit.io/.
